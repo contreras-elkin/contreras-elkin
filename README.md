@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elkin
 
-Backend Developer specialized in building scalable APIs with Java and Python.  
-I focus on clean architecture design, performance, and maintainability.
+Backend Developer experienced in designing RESTful APIs using Java (Spring Boot) and Python (FastAPI).  
+Focused on layered and clean architectures, SQL performance tuning, and secure authentication mechanisms (JWT).
 
 
 
