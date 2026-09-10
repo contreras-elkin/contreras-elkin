@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Elkin
 
-Backend Developer experienced in designing RESTful APIs using Java (Spring Boot) and Python (FastAPI).  
+- FULL_NAME: Elkin Stiven Contreras Rojas
+- GITHUB_USER: contreras-elkin
+  
+Backend Developer experienced in designing RESTful APIs using Java (Spring Boot).  
 Focused on layered and clean architectures, SQL performance tuning, and secure authentication mechanisms (JWT).
 
 
