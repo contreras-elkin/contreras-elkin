@@ -22,12 +22,11 @@ Focused on layered and clean architectures, SQL performance tuning, and secure a
 
 ### 🚀 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
@@ -38,7 +37,7 @@ Focused on layered and clean architectures, SQL performance tuning, and secure a
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js" />
+  <img src="https://skillicons.dev/icons?i=react,ts" />
 </p>
 
 ### 🔧 Version Control
